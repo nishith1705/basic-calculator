@@ -1,0 +1,136 @@
+.container{
+  position: relative;
+  top: 30px;
+  left: 450px;
+  background-color: black;
+  width: 400px;
+  height: 620px;
+  border-radius: 10px;
+}
+.btn{
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+  width: 30px;
+  height: 30px;
+  border: 2px solid midnightblue;
+  text-align: center;
+  padding-bottom: 30px;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.one{
+    position: relative;
+    top: 0px;
+    left: 20px;
+    width: 100px;
+}
+.two{
+    position: relative;
+    top: -63px;
+    left: 150px;
+    width: 100px;
+}
+.three{
+    position: relative;
+    top: -126px;
+    left: 280px;
+    width: 100px;
+}
+.four{
+    position: relative;
+    top: -120px;
+    left: 20px;
+    width: 100px;
+}
+.five{
+    position: relative;
+    top: -183px;
+    left: 150px;
+    width: 100px;
+}
+.six{
+    position: relative;
+    top: -247px;
+    left: 280px;
+    width: 100px;
+}
+.seven{
+    position: relative;
+    top: -240px;
+    left: 20px;
+    width: 100px;
+}
+.eight{
+    position: relative;
+    top: -303px;
+    left: 150px;
+    width: 100px;
+}
+.nine{
+    position: relative;
+    top: -368px;
+    left: 280px;
+    width: 100px;
+}
+.zero{
+    position: relative;
+    top: -423px;
+    left: 150px;
+    width: 100px;
+}
+#display{
+    position: relative;
+    top: 30px;
+    left: 20px;
+    height: 45px;
+    width: 350px;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.add{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    width: 100px;
+    background-color: gray;
+}
+.minus{
+    position: relative;
+    top: 16px;
+    left: 150px;
+    width: 100px;
+    background-color: gray;
+}
+.multiply{
+    position: relative;
+    top: -48px;
+    left: 280px;
+    width: 100px;
+    background-color: gray;
+}
+.clear{
+    position: relative;
+    top: -40px;
+    left: 20px;
+    width: 100px;
+    background-color: gray;
+}
+.divide{
+    position: relative;
+    top: -359px;
+    left: 20px;
+    width: 100px;
+    background-color: gray;
+}
+.equals{
+    position: relative;
+    top: -488px;
+    left: 280px;
+    width: 100px;
+    background-color: gray;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)
+}
